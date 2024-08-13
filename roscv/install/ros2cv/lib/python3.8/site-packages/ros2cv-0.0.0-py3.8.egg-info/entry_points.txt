@@ -1,0 +1,3 @@
+[console_scripts]
+roscv_node = ros2cv.roscv:main
+

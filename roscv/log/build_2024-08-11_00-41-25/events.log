@@ -1,0 +1,46 @@
+[0.000000] (-) TimerEvent: {}
+[0.001774] (ros2cv) JobQueued: {'identifier': 'ros2cv', 'dependencies': OrderedDict()}
+[0.001919] (ros2cv) JobStarted: {'identifier': 'ros2cv'}
+[0.097015] (-) TimerEvent: {}
+[0.201782] (-) TimerEvent: {}
+[0.306786] (-) TimerEvent: {}
+[0.410752] (-) TimerEvent: {}
+[0.522295] (-) TimerEvent: {}
+[0.628966] (-) TimerEvent: {}
+[0.756920] (-) TimerEvent: {}
+[0.877619] (-) TimerEvent: {}
+[0.985412] (-) TimerEvent: {}
+[1.090665] (-) TimerEvent: {}
+[1.191887] (-) TimerEvent: {}
+[1.296887] (-) TimerEvent: {}
+[1.416957] (-) TimerEvent: {}
+[1.501472] (ros2cv) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/ros2cv', 'build', '--build-base', '/home/rqxx/roscv/build/ros2cv/build', 'install', '--record', '/home/rqxx/roscv/build/ros2cv/install.log', '--install-scripts', '$base/lib/ros2cv', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/rqxx/roscv/src/ros__cv', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'rqxx', 'SSH_AGENT_PID': '1408', 'XDG_SESSION_TYPE': 'x11', 'GIT_ASKPASS': '/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib', 'HOME': '/home/rqxx', 'CHROME_DESKTOP': 'code-url-handler.desktop', 'OLDPWD': '/home/rqxx/roscv/src', 'TERM_PROGRAM_VERSION': '1.92.0', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'VSCODE_GIT_ASKPASS_MAIN': '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/usr/share/code/code', 'MANAGERPID': '1307', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'COLCON_PREFIX_PATH': '/home/rqxx/roscv/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'rqxx', 'JOURNAL_STREAM': '8:50617', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'rqxx', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'WINDOWPATH': '2', 'PATH': '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'SESSION_MANAGER': 'local/ubuntu:@/tmp/.ICE-unix/1443,unix/ubuntu:/tmp/.ICE-unix/1443', 'INVOCATION_ID': '68a8a2c293284e2db32e8cdb825c4fdf', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/df3a5819_1539_4895_815b_12ae30a5bd1b', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'x11', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'Unity', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/gdm/Xauthority', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-9e5b78c9a3.sock', 'GNOME_TERMINAL_SERVICE': ':1.76', 'TERM_PROGRAM': 'vscode', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/rqxx/roscv/install/ros2cv:/opt/ros/foxy', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GPG_AGENT_INFO': '/run/user/1000/gnupg/S.gpg-agent:0:1', 'GJS_DEBUG_OUTPUT': 'stderr', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/rqxx/roscv/build/ros2cv', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/rqxx/roscv/build/ros2cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages:/home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'VTE_VERSION': '6003'}, 'shell': False}
+[1.526248] (-) TimerEvent: {}
+[1.626910] (-) TimerEvent: {}
+[1.736412] (-) TimerEvent: {}
+[1.837259] (-) TimerEvent: {}
+[1.908390] (ros2cv) StdoutLine: {'line': b'running egg_info\n'}
+[1.915075] (ros2cv) StdoutLine: {'line': b'writing ../../build/ros2cv/ros2cv.egg-info/PKG-INFO\n'}
+[1.916362] (ros2cv) StdoutLine: {'line': b'writing dependency_links to ../../build/ros2cv/ros2cv.egg-info/dependency_links.txt\n'}
+[1.917417] (ros2cv) StdoutLine: {'line': b'writing entry points to ../../build/ros2cv/ros2cv.egg-info/entry_points.txt\n'}
+[1.921393] (ros2cv) StdoutLine: {'line': b'writing requirements to ../../build/ros2cv/ros2cv.egg-info/requires.txt\n'}
+[1.922103] (ros2cv) StdoutLine: {'line': b'writing top-level names to ../../build/ros2cv/ros2cv.egg-info/top_level.txt\n'}
+[1.950422] (-) TimerEvent: {}
+[2.016072] (ros2cv) StdoutLine: {'line': b"reading manifest file '../../build/ros2cv/ros2cv.egg-info/SOURCES.txt'\n"}
+[2.020179] (ros2cv) StdoutLine: {'line': b"writing manifest file '../../build/ros2cv/ros2cv.egg-info/SOURCES.txt'\n"}
+[2.022689] (ros2cv) StdoutLine: {'line': b'running build\n'}
+[2.023516] (ros2cv) StdoutLine: {'line': b'running build_py\n'}
+[2.024490] (ros2cv) StdoutLine: {'line': b'running install\n'}
+[2.026507] (ros2cv) StdoutLine: {'line': b'running install_lib\n'}
+[2.029403] (ros2cv) StdoutLine: {'line': b'running install_data\n'}
+[2.030498] (ros2cv) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.033535] (ros2cv) StdoutLine: {'line': b"removing '/home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages/ros2cv-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[2.034702] (ros2cv) StdoutLine: {'line': b'Copying ../../build/ros2cv/ros2cv.egg-info to /home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages/ros2cv-0.0.0-py3.8.egg-info\n'}
+[2.036395] (ros2cv) StdoutLine: {'line': b'running install_scripts\n'}
+[2.050975] (-) TimerEvent: {}
+[2.059500] (ros2cv) StdoutLine: {'line': b'Installing roscv_node script to /home/rqxx/roscv/install/ros2cv/lib/ros2cv\n'}
+[2.066294] (ros2cv) StdoutLine: {'line': b"writing list of installed files to '/home/rqxx/roscv/build/ros2cv/install.log'\n"}
+[2.141424] (ros2cv) CommandEnded: {'returncode': 0}
+[2.152064] (-) TimerEvent: {}
+[2.164207] (ros2cv) JobEnded: {'identifier': 'ros2cv', 'rc': 0}
+[2.166156] (-) EventReactorShutdown: {}

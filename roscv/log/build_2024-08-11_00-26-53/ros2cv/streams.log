@@ -1,0 +1,36 @@
+[1.757s] Invoking command in '/home/rqxx/roscv/src/ros2cv': PYTHONPATH=/home/rqxx/roscv/build/ros2cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2cv build --build-base /home/rqxx/roscv/build/ros2cv/build install --record /home/rqxx/roscv/build/ros2cv/install.log --install-scripts $base/lib/ros2cv --single-version-externally-managed install_data
+[2.117s] running egg_info
+[2.119s] creating ../../build/ros2cv/ros2cv.egg-info
+[2.123s] writing ../../build/ros2cv/ros2cv.egg-info/PKG-INFO
+[2.124s] writing dependency_links to ../../build/ros2cv/ros2cv.egg-info/dependency_links.txt
+[2.126s] writing entry points to ../../build/ros2cv/ros2cv.egg-info/entry_points.txt
+[2.127s] writing requirements to ../../build/ros2cv/ros2cv.egg-info/requires.txt
+[2.127s] writing top-level names to ../../build/ros2cv/ros2cv.egg-info/top_level.txt
+[2.139s] writing manifest file '../../build/ros2cv/ros2cv.egg-info/SOURCES.txt'
+[2.187s] reading manifest file '../../build/ros2cv/ros2cv.egg-info/SOURCES.txt'
+[2.190s] writing manifest file '../../build/ros2cv/ros2cv.egg-info/SOURCES.txt'
+[2.192s] running build
+[2.193s] running build_py
+[2.195s] creating /home/rqxx/roscv/build/ros2cv/build
+[2.196s] creating /home/rqxx/roscv/build/ros2cv/build/lib
+[2.197s] creating /home/rqxx/roscv/build/ros2cv/build/lib/ros2cv
+[2.198s] copying ros2cv/roscv.py -> /home/rqxx/roscv/build/ros2cv/build/lib/ros2cv
+[2.199s] copying ros2cv/__init__.py -> /home/rqxx/roscv/build/ros2cv/build/lib/ros2cv
+[2.200s] running install
+[2.202s] running install_lib
+[2.210s] creating /home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages/ros2cv
+[2.210s] copying /home/rqxx/roscv/build/ros2cv/build/lib/ros2cv/roscv.py -> /home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages/ros2cv
+[2.211s] copying /home/rqxx/roscv/build/ros2cv/build/lib/ros2cv/__init__.py -> /home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages/ros2cv
+[2.212s] byte-compiling /home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages/ros2cv/roscv.py to roscv.cpython-38.pyc
+[2.217s] byte-compiling /home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages/ros2cv/__init__.py to __init__.cpython-38.pyc
+[2.218s] running install_data
+[2.218s] creating /home/rqxx/roscv/install/ros2cv/share/ament_index
+[2.222s] creating /home/rqxx/roscv/install/ros2cv/share/ament_index/resource_index
+[2.223s] creating /home/rqxx/roscv/install/ros2cv/share/ament_index/resource_index/packages
+[2.223s] copying resource/ros2cv -> /home/rqxx/roscv/install/ros2cv/share/ament_index/resource_index/packages
+[2.223s] copying package.xml -> /home/rqxx/roscv/install/ros2cv/share/ros2cv
+[2.225s] running install_egg_info
+[2.232s] Copying ../../build/ros2cv/ros2cv.egg-info to /home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages/ros2cv-0.0.0-py3.8.egg-info
+[2.233s] running install_scripts
+[2.269s] writing list of installed files to '/home/rqxx/roscv/build/ros2cv/install.log'
+[2.313s] Invoked command in '/home/rqxx/roscv/src/ros2cv' returned '0': PYTHONPATH=/home/rqxx/roscv/build/ros2cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2cv build --build-base /home/rqxx/roscv/build/ros2cv/build install --record /home/rqxx/roscv/build/ros2cv/install.log --install-scripts $base/lib/ros2cv --single-version-externally-managed install_data

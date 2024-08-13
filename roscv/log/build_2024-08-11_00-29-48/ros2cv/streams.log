@@ -1,0 +1,9 @@
+[1.243s] Invoking command in '/home/rqxx/roscv/src/ros2cv': PYTHONPATH=/home/rqxx/roscv/build/ros2cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2cv build --build-base /home/rqxx/roscv/build/ros2cv/build install --record /home/rqxx/roscv/build/ros2cv/install.log --install-scripts $base/lib/ros2cv --single-version-externally-managed install_data
+[1.587s] running egg_info
+[1.590s] writing ../../build/ros2cv/ros2cv.egg-info/PKG-INFO
+[1.591s] writing dependency_links to ../../build/ros2cv/ros2cv.egg-info/dependency_links.txt
+[1.592s] writing entry points to ../../build/ros2cv/ros2cv.egg-info/entry_points.txt
+[1.594s] writing requirements to ../../build/ros2cv/ros2cv.egg-info/requires.txt
+[1.600s] writing top-level names to ../../build/ros2cv/ros2cv.egg-info/top_level.txt
+[1.674s] error: package directory 'ros2cv' does not exist
+[1.703s] Invoked command in '/home/rqxx/roscv/src/ros2cv' returned '1': PYTHONPATH=/home/rqxx/roscv/build/ros2cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rqxx/roscv/install/ros2cv/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2cv build --build-base /home/rqxx/roscv/build/ros2cv/build install --record /home/rqxx/roscv/build/ros2cv/install.log --install-scripts $base/lib/ros2cv --single-version-externally-managed install_data
